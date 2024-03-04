@@ -1,0 +1,38 @@
+{
+  "tickets": [
+    {
+      "id": "ed02",
+      "title": "Dummy Ticket",
+      "priority": "2",
+      "description": "Dummy description",
+      "resolved": "true"
+    },
+    {
+      "id": "2d5f",
+      "title": "Dummy Ticket 2",
+      "priority": "2",
+      "description": "Second dummy ticket"
+    },
+    {
+      "id": "ca86",
+      "title": "Dummyyy",
+      "priority": "2",
+      "description": "djasjkdsadasdasdasdasidhasudha",
+      "resolved": ""
+    },
+    {
+      "id": "fe8e",
+      "title": "dashdjashdjashdjh",
+      "priority": "1",
+      "description": "dsadasdasdkdjsakdjaskdjkasjdks",
+      "resolved": "true"
+    },
+    {
+      "id": "c7ac",
+      "title": "asdasdas",
+      "priority": "1",
+      "description": "dasdasdasdasdasd",
+      "resolved": "true"
+    }
+  ]
+}
