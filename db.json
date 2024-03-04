@@ -1,37 +1,30 @@
 {
   "tickets": [
     {
-      "id": "ed02",
+      "id": "df6f",
       "title": "Dummy Ticket",
       "priority": "2",
       "description": "Dummy description",
       "resolved": "true"
     },
     {
-      "id": "2d5f",
-      "title": "Dummy Ticket 2",
+      "id": "fc85",
+      "title": "Second Dummy T",
       "priority": "2",
-      "description": "Second dummy ticket"
-    },
-    {
-      "id": "ca86",
-      "title": "Dummyyy",
-      "priority": "2",
-      "description": "djasjkdsadasdasdasdasidhasudha",
+      "description": "",
       "resolved": ""
     },
     {
-      "id": "fe8e",
-      "title": "dashdjashdjashdjh",
-      "priority": "1",
-      "description": "dsadasdasdkdjsakdjaskdjkasjdks",
+      "id": "92fd",
+      "title": "Third Dummy T",
+      "priority": "2",
       "resolved": "true"
     },
     {
-      "id": "c7ac",
-      "title": "asdasdas",
-      "priority": "1",
-      "description": "dasdasdasdasdasd",
+      "id": "ce8c",
+      "title": "Last dummy ticket",
+      "priority": "3",
+      "description": "This is the last dummy ticket",
       "resolved": "true"
     }
   ]
